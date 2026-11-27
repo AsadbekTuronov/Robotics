@@ -1,0 +1,4 @@
+ultralytics
+opencv-python
+# Faqat YOLO-World (--world, masalan ruchka sanash) uchun kerak:
+git+https://github.com/ultralytics/CLIP.git
